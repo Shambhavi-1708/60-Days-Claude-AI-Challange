@@ -20,5 +20,5 @@ Solve complex problems using Claude independently.
 Email drafting
 Meeting summaries
 
-![MY AI PORTRAIT] (https://github.com/Shambhavi-1708/60-Days-Claude-AI-Challange/blob/main/Day%201/ChatGPT%20Image%20Jun%2013%2C%202026%2C%2010_56_47%20PM.png)
+[MY AI PORTRAIT](https://github.com/Shambhavi-1708/60-Days-Claude-AI-Challange/blob/main/Day%201/ChatGPT%20Image%20Jun%2013%2C%202026%2C%2010_56_47%20PM.png)
 
